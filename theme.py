@@ -15,7 +15,7 @@ def red_dark():
 
         h1, h2 {
             font-family: 'Unbounded', sans-serif;
-            color: #fc2403;  /* Red primary color */
+            color:  #FF2929;   Red primary color */
         }
 
         h1 {
@@ -38,7 +38,7 @@ def red_dark():
 
         th, td {
             text-align: left;
-            border: 1px solid #fc2403;  /* Red border */
+            border: 1px solid #FF2929;  /* Red border */
         }
 
         th {
@@ -59,7 +59,7 @@ def red_dark():
             font-size: 0.9em;
             font-weight: 500;
             text-align: center;
-            border: 0.5px solid #fc2403;  /* Red border */
+            border: 0.5px solid #FF2929;  /* Red border */
         }
 
         .skill-button:hover {
@@ -68,7 +68,7 @@ def red_dark():
 
         .stDownloadButton {
             background-color: #0E1117;
-            color: #fc2403;  /* Red text for download button */
+            color: #FF2929;  /* Red text for download button */
         }
 
         .stSidebar {
@@ -99,7 +99,6 @@ def red_dark():
         <style>
             * {
                 font-weight: 200;
-                color: #fc2403;  /* Red for text in the sidebar */
             }
         </style>
         """,
